@@ -1,1 +1,3 @@
-unir tarea2 6.0
+unir tarea2 7.0
+añadimos texto aleatorio para que se vea el cambio
+tarea 2 CI/CD
